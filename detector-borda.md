@@ -1,4 +1,4 @@
-# **Aula ( 24/04 ) – Detector de Borda**
+# **Detector de Borda**
 
 ## **🧠 Por que flip-flops são sensíveis à borda?**
 
