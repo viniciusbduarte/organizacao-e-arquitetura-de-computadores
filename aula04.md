@@ -1,4 +1,4 @@
-**Interconexão, Memória e Entrada/Saída( 08/05 )**
+# **Interconexão, Memória e Entrada/Saída( 08/05 )**
 
 ## 🔰 1. Estrutura Básica de um Computador
 
