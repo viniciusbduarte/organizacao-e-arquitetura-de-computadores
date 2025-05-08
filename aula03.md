@@ -1,4 +1,4 @@
-# **Aula 4 – Memórias em Sistemas Digitais ( 24/04 )**
+# **Memórias em Sistemas Digitais ( 24/04 )**
 
 ---
 
