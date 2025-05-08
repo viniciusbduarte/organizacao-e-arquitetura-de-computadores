@@ -1,4 +1,4 @@
-# Aula (10/04) – Evolução dos Computadores e Arquiteturas de Processadores 
+# Aula (03/04) – Evolução dos Computadores e Arquiteturas de Processadores 
 
 ## Década de 1940 - Primeiros Computadores Digitais
 
